@@ -1,4 +1,5 @@
 # streverser
+bundle gem <name>
 # Building, testing and releasing your gem
 $ rake build      # Build the gem locally
 $ rake install    # Build and install locally
